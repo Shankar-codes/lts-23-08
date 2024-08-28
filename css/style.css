@@ -139,6 +139,33 @@ body{
     height: 80vh;
 }
 
+.hero-bg-consumbles
+{
+    background-image:linear-gradient(135deg, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.4)), url("../images/Lab consumables.jpg");
+    background-size: cover;
+    background-position: bottom;
+    color: #ffffff;
+    height: 80vh;
+}
+
+.hero-bg-terms
+{
+    background-image:linear-gradient(135deg, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.4)), url("../images/terms-conditions.jpg");
+    background-size: cover;
+    background-position: bottom;
+    color: #ffffff;
+    height: 80vh;
+}
+
+.hero-bg-std
+{
+    background-image:linear-gradient(135deg, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.4)), url("../images/Lab equipment.jpg");
+    background-size: cover;
+    background-position: bottom;
+    color: #ffffff;
+    height: 80vh;
+}
+
 .hero-bg-microscope
 {
     background-image:linear-gradient(135deg, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.4)), url("../images/Microscope.jpg");
@@ -157,7 +184,7 @@ body{
     height: 80vh;;
 }
 
-. 
+.hero-bg-academic
 {
     background-image:linear-gradient(135deg, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.4)), url("../images/Academic research.jpg");
     background-size:cover;
@@ -286,4 +313,24 @@ h1, h2, h3, h4{
 .background-transparent
  {
   background: rgba(0, 0, 0, 0.4) /* Green background with 30% opacity */
+}
+
+.mattefinishblue
+{
+  background-color: #d0ebff;
+}
+
+.mattefinishcyan
+{
+  background-color: #e9fac8;
+}
+
+.mattefinishyellow
+{
+  background-color: #fff3bf;
+}
+
+.mattefinishorange
+{
+  background-color: #f3d9fa;
 }
